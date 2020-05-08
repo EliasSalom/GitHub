@@ -21,6 +21,7 @@ to pull all the code from GitHub
     git pull origin master
 
 ##Branching
+
     git branch  //view all branch
     git branch elias1 //create a new branch
     git checkout elias1  //going to elias1 branch
