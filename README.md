@@ -1,6 +1,6 @@
 # How to use Github and Git bash
 
-**To download **
+** To download **
 [Git Bash](https://gitforwindows.org/)
 
 ## First Time
@@ -20,7 +20,7 @@ to pull all the code from GitHub
 
     git pull origin master
 
-##Branching
+## Branching
 
     git branch  //view all branch
     git branch elias1 //create a new branch
