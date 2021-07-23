@@ -20,12 +20,19 @@ To Push all new code to GitHub
 ```
 > OR this code in case have another prunch
 ```sh
-git push origin master
+git push origin main
+```
+> OR push an existing repository from the command line
+```sh
+git remote add origin https://github.com/EliasSalom/{repository}
+git branch -M main
+git push -u origin main
 ```
 > To pull all the code from GitHub
 ```sh
     git pull
 ```
+
 ## Branching
 
     git branch  //view all branch
