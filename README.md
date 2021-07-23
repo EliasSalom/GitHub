@@ -4,22 +4,28 @@
 [Git Bash](https://gitforwindows.org/)
 
 ## First Time
->Go to the file directory
-
-    1. git init 
-    2. git add . or git add -A
-    3. git commit -m "Comment"
-    4. git remote add origin https://github.com/EliasSalom/rowad.git
-    5. git push -u origin master
-
+> Go to the file directory
+```sh
+    git init 
+    git add .
+    git commit -m "Comment"
+    git branch -M main
+    git remote add origin <repostory>
+    git push -u origin main
+```
 ## Push and Pull
 To Push all new code to GitHub
-
-    git push origin master
-to pull all the code from GitHub
-
-    git pull origin master
-
+```sh
+    git push 
+```
+> OR this code in case have another prunch
+```sh
+git push origin master
+```
+> To pull all the code from GitHub
+```sh
+    git pull
+```
 ## Branching
 
     git branch  //view all branch
