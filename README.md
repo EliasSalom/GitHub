@@ -38,6 +38,7 @@ git push -u origin main
     git branch  //view all branch
     git branch elias1 //create a new branch
     git checkout elias1  //going to elias1 branch
+    git push -u origin <branch> \\push to new brunch
 
 ## info
 	git config --global user.email "elias.29@hotmail.com"
