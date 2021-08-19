@@ -34,16 +34,27 @@ git push -u origin main
 ```
 
 ## Branching
-
-    git branch  //view all branch
-    git branch elias1 //create a new branch
-    git checkout elias1  //going to elias1 branch
-    git push -u origin <branch> \\push to new brunch
-
+```sh
+git branch  //view all branch
+git branch elias1 //create a new branch
+git checkout elias1  //going to elias1 branch
+git push -u origin <branch> \\push to new brunch
+```
 ## info
-	git config --global user.email "elias.29@hotmail.com"
-	git config --global user.name "elias salom"
-
+```sh
+git config --global user.email "elias.29@hotmail.com"
+git config --global user.name "elias salom"
+```
 ## Error
-    git push -f origin master
-    git pull --rebase origin master
+> wfsd
+```sh
+    git push -f origin main
+```
+> it's use to make pull and merge in the same time
+```sh
+    git pull --rebase origin main
+```
+> firce both branches to have the same history
+```sh
+git branch [branch 1] [branch 2] -f
+```
