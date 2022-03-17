@@ -58,3 +58,16 @@ git config --global user.name "elias salom"
 ```sh
 git branch [branch 1] [branch 2] -f
 ```
+## Update
+> To check the version of the `git` CLI Tool
+```sh
+git --version
+```
+> To Update the git tool on **windows**
+```sh
+git update-git-for-windows
+```
+> To Update the git tool on **Linux**
+```sh
+sudo apt-get install git
+```
