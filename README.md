@@ -1,7 +1,11 @@
 # How to use Github and Git bash
 
+## install
 ** To download **
 [Git Bash](https://gitforwindows.org/)
+for more details
+> [for windows](https://www.youtube.com/watch?v=4xqVv2lTo40)
+> [for mac](https://www.youtube.com/watch?v=F02LEVYEmQw&ab_channel=TechStart)
 
 ## First Time
 > Go to the file directory
