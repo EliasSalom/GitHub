@@ -1,11 +1,11 @@
 # GitHub - Repo - info
 
 ## Index
-- [Description]()
-- [About]()
-- [Resorcies]()
-- [More]()
-- [End]()
+- [Description](#description)
+- [About](#about)
+- [Resorcies](#resorcies)
+- [More](#more)
+- [End](#end)
 
 ## Description
 
